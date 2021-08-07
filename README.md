@@ -4,7 +4,7 @@ The recognition of optical characters is known to be one of the earliest applica
 
 DataSet :
 https://www.kaggle.com/landlord/handwriting-recognition
-download folers
+download folders
 1.test_v2
 2.train_v2
 3.validate_v2
